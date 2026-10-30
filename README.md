@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BTech graduate in Electronics and Communication Engineering.
+- 🎓 BTech in Electronics and Communication Engineering.
 - 📊 Interested in Data Analytics and Business Intelligence.
 - 🔍 Enjoy exploring datasets and discovering meaningful patterns.
 - 🌱 Continuously improving my analytical and technical skills.
@@ -20,7 +20,7 @@
 
 **Data Cleaning:** SQL Data Cleaning, Excel Data Cleaning
 
-**Currently Learning:** Python, Pandas, DAX, Generative AI for Data Analytics
+**Currently Learning:** Python, Pandas, Generative AI for Data Analytics
 
 ## 📂 Featured Projects
 
@@ -47,7 +47,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ayshazeexo-arch
-- LinkedIn:(https://www.linkedin.com/in/aysha-ziya-10a8b4255?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn:(https://www.linkedin.com/in/aysha-ziya-10a8b4255/))
 
 ---
 
